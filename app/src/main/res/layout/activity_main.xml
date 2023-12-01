@@ -266,6 +266,6 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="#F1F1F1"
         app:layout_constraintTop_toTopOf="parent"
-        android:text="Formula" />
+        android:text="" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
